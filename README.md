@@ -1,2 +1,0 @@
-# natours-starter
-advanced css
